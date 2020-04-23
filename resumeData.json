@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name":"Randall Burgess",
+    "occupation":"React Developer",
+    "description":"I will soon be completing the web development boot camp program at UW!  For weeks now I have been training alongside my fellow students to put together one of the most sought after skill sets, currently on the job market.  I have found a strong passion for coding, and am ever excited to develop more programming skills.  It is my intention to make a career out of coding, so feel free to reach out to me with any job offers, or project contracts!",
+    "image":"picture-min.jpg",
+    "bio":"I have had a life long passion for working with computers and new technology.  I have extensive experience working with computer and networking systems, and have recently put together a full stack web development skill set.  As long as I'm alive I want to be on the forefront of new technologies, and have made it my mission to be apart of the rapid growth our culture is currently experiencing.",
+    "contactmessage":"I am always happy to talk about taking on new projects.  If you would like to reach out to me, please utilize one of the contact methods below.",
+    "email": "randallallenburgess@gmail.com",
+    "phone": "(360)402-2780",
+    "address":{
+      "street":"7901 Delridge Way SW",
+      "city":"Seattle",
+      "state":"WA",
+      "zip": "98106"
+    },
+    "website": "https://github.com/FlashOTFR/",
+    "resumedownload":"https://docs.google.com/document/d/1xuWvPNm1lCM6_KyOqW_nElXhrKzcuUi_GdXa6GCgvGc/edit?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/randall-burgess-a93a8451/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/FlashOTFR",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am a full stack developer, I am currently utilizing the MERN stack, with MongoDB.",
+    "education":[
+      {
+        "school":"Bellevue College",
+        "degree":"Current Student",
+        "graduated":"Current Student",
+        "description":"I am currently accruing enough credits to transer to a 4-year University in order to complete a CS degree."
+      },
+      {
+        "school":"Mount Si High School",
+        "degree":"",
+        "graduated":"2006",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Trilogy Education Services",
+        "title":"Admissions Advisor",
+        "years":"January 2016 - October 2019",
+        "description":"In my role at Trilogy, I was responsible for portraying the face of our bootcamp programs.  I spent my days speaking with students on the phone and building relationships to make sure we got people coming into our courses the best possible student experience.  I began in my role at Trilogy when it was a start up, and was integral in setting up office tech and network systems, as well as training and guiding new advisors.  I had spent time within the organization working with issues well out of my job description, and am always looking for other ways I could help the company be successful."
+      },
+      {
+        "company":"Office 2 Go",
+        "title":"Field Technician",
+        "years":"September 2014 - January 2016",
+        "description":"In my former position, I did PC repairs and networking for commercial and residential clients.  I was also responsible for scheduling calls for myself and other technicians, invoicing customers, speaking with our clients over the phone to assess their needs and general office work."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React.JS",
+        "level":"60%"
+      },
+      {
+        "name":"Node.JS",
+        "level":"55%"
+      },
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"D&D Character Generator",
+        "category":"A way to digitally represent a D&D character sheet",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://chargenproj.herokuapp.com/"
+      },
+      {
+        "title":"ComiCall",
+        "category":"For comic searches big and small!",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://maximilianc88.github.io/ComiCall/"
+      },
+      {
+        "title":"Note Taker",
+        "category":"An app that takes notes!",
+        "image":"original-thai-food.jpg",
+        "url":"https://flashotfr.github.io/Homework5/"
+      },
+      {
+        "title":"Password Generator",
+        "category":"An app to generate apassword for you!",
+        "image":"resume-website.jpg",
+        "url":"https://flashotfr.github.io/Homework3/"
+      },
+      {
+        "title":"Employee Tracker",
+        "category":"An app to catalogue and track your employees!",
+        "image":"smirkspace.jpg",
+        "url":"https://flashotfr.github.io/employee-tracker/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Randy is single handedly the greatest developer I have ever met in my entire life.  He's also a fantastic saxophonist.",
+        "user":"Henry Winkler"
+      },
+      {
+        "text":"Hey everyone!  If you are looking for someone to make a great web app for you, look no further than Randall Burgess.  He built my web app, and fixed my roof.  Thank you, Randy.",
+        "user":"Paul Rudd"
+      }
+    ]
+  }
+}
